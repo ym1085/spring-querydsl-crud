@@ -9,5 +9,4 @@ public class SpringQuerydslCrudApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringQuerydslCrudApplication.class, args);
 	}
-
 }
